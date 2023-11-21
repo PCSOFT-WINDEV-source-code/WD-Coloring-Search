@@ -1,0 +1,92 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Coloring Search
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : The purpose of the project is...
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : "WD Coloring Search "
+    internal_properties : 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
+    configuration_id : 7986217183529307124
+    type : 1
+    generation_name : WD Coloring Search.exe
+    version :
+     version : VI180036D
+     autoincrement_version : false
+    icon_filename : .\VST12443a.ico
+    language : 2
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAABd1WqoUzz9EeVJPjXwaEj2d39wjLSZh1Ihq3PB+vKtiy001SzN065HuPG+nOgyy2nprXeuzpx6jJBO2g==
+ elements :
+  identifier : 0x4c4d8f200011e151
+  elements :
+   -
+     name : WIN_Search
+     identifier : 0x4a9d50b10001ef31
+     internal_properties : CAAAAAgAAAALB3MXlNFZAtsftVOp+XDqLaj0pBMa7uRSGn2L5gQWgn5SMpjjJkYAqJQO6qom0sYOFg==
+     physical_name : .\WIN_Search.wdw
+     type : 2
+   -
+     name : QRY_FindDoc_FullText
+     identifier : 0x4a9e26010000273e
+     internal_properties : CAAAAAgAAAAmLA4Skc5mCSxUihD+L4MZZAszW+w15cxSmp+1KmY2krpk3vyOc4nFbakT7bUr18kzMw==
+     physical_name : .\QRY_FindDoc_FullText.WDR
+     type : 5
+   -
+     name : TEST_WIN_Search
+     identifier : 0x4c74e84a001ef8cc
+     internal_properties : CAAAAAgAAADhXdnN+qcPICU9b2nnQeL4Q3LKQndrcKFSOuwE8Fw+mqJCPhxtXHAqhrIslBzUrBzkbA==
+     physical_name : .\TEST_WIN_Search.wxt
+     type : 17
+  other_elements : []
+  analysis : .\WD Coloring Search.ana\WD Coloring Search.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wd_style_sheet : .\WD Coloring Search .sty
+ wb_style_sheet : .\WD Coloring Search .wws
+ code_elements :
+  internal_properties : CAAAAAgAAADcCp/sX7b2xqGAADBHanIekB8KZiIsiZ5A0OG5eS6edcelR15A8JOfZsKNzTUIBOMEtOOojbt/eAFFd4u+znxJ2A==
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : "WD Coloring Search "
+     identifier : 0x4c4d8f200016e1ce
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : Windows Store Apps API
+    explorer_type : custom_folder
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
